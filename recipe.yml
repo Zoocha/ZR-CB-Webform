@@ -1,0 +1,10 @@
+name: 'ZC Webform'
+description: 'Installs Zoocha Webform Component'
+type: 'Feature'
+install:
+  - webform
+recipes:
+  - zr-layout-builder-bundle
+
+config:
+  strict: false

@@ -1,0 +1,11 @@
+uuid: 4242413b-1be0-419b-96f2-e4ff18205e1e
+langcode: en
+status: true
+dependencies: {  }
+id: webform
+block_id: 'inline_block:webform'
+category: zoocha_components
+label: Webform
+image_path: ''
+image_alt: ''
+weight: null
