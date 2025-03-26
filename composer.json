@@ -1,7 +1,7 @@
 {
     "name": "zr/zr-cb-webform",
     "description": "ZR Webform - Layout Builder",
-    "type": "drupal-recipe",
+    "type": "drupal-custom-recipe",
     "require": {
         "php": ">=8.1"
     },
