@@ -1,0 +1,10 @@
+uuid: 67acb3a7-9184-437d-aed9-d53533a04c6f
+langcode: en
+status: true
+dependencies: {  }
+id: zoocha_components
+label: 'Zoocha Components'
+weight: null
+opened: true
+image_path: ''
+image_alt: ''
