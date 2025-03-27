@@ -4,7 +4,8 @@
     "type": "drupal-recipe",
     "require": {
         "php": ">=8.1",
-        "zr/zr-layout-builder-bundle": "^1.0"
+        "zr/zr-layout-builder-bundle": "^1.0",
+        "drupal/webform": "^6.3@beta"
     },
     "authors": [
         {
