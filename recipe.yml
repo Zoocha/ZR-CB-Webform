@@ -5,6 +5,7 @@ install:
   - webform
 recipes:
   - zr-layout-builder-bundle
+  - zr-webform-bundle
 
 config:
   strict: false
